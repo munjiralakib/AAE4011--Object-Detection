@@ -183,9 +183,20 @@ The dominance of cars (~90%) is consistent with Hong Kong urban road traffic com
 
 ### Sample Detection Screenshot
 
-![Sample detection frame showing bounding boxes around vehicles](det_00050.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="resources/det_00010.jpg" width="480"/><br/>
+      <b>Frame 10</b> — Truck detected (conf: 0.85) and ego-vehicle car (conf: 0.78)
+    </td>
+    <td align="center">
+      <img src="resources/det_00050.jpg" width="480"/><br/>
+      <b>Frame 50</b> — Two cars detected (conf: 0.83, 0.49) and ego-vehicle car (conf: 0.73)
+    </td>
+  </tr>
+</table>
 
-*Figure: Frame 50 with YOLOv8n detections. Green boxes = car, blue boxes = bus, orange boxes = truck. Confidence scores shown above each box.*
+*Figure: YOLOv8n detections on sample frames. White boxes = car, yellow boxes = truck. Confidence scores shown above each bounding box.*
 
 ---
 
