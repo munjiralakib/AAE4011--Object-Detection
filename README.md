@@ -1,6 +1,6 @@
 # AAE4011 Assignment 1 — Q3: ROS-Based Vehicle Detection from Rosbag
 
-> **Student Name:** [AL AKIB Ahmad Munjir] | **Student ID:** [23096168d] | **Date:** 17 March 2026
+> **Student Name:** AL AKIB Ahmad Munjir | **Student ID:** 23096168d | **Date:** 17 March 2026
 
 ---
 
