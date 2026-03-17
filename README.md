@@ -204,7 +204,7 @@ The dominance of cars (~90%) is consistent with Hong Kong urban road traffic com
 
 **Video Link:** [YouTube (Unlisted)](https://youtu.be/J1dSmeUI28c)
 
-**Duration:** ~2 minutes
+**Duration:** 3 minutes 09 Seconds
 
 The video demonstrates all three required components:
 
